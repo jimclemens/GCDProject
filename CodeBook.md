@@ -18,33 +18,33 @@
 		
 ###Column	Variable Name	Definition
 
-1	activity	                Activity undertaken during measurements. 6 values; descriptive names given in values.
+1	activity: Activity undertaken during measurements. 6 values; descriptive names given in values.
 
-2	subject_num	              Subject number. Ranges from 1 to 30
+2	subject_num: Subject number. Ranges from 1 to 30
 
-3	tbodyacc_mean_x	          Mean of tBodyAcc-mean()-X from original dataset
+3	tbodyacc_mean_x: Mean of tBodyAcc-mean()-X from original dataset
 
-4	tbodyacc_mean_y	          Mean of tBodyAcc-mean()-Y from original dataset
+4	tbodyacc_mean_y: Mean of tBodyAcc-mean()-Y from original dataset
 
-5	tbodyacc_mean_z	          Mean of tBodyAcc-mean()-Z from original dataset
+5	tbodyacc_mean_z: Mean of tBodyAcc-mean()-Z from original dataset
 
-6	tbodyacc_std_x	          Mean of tBodyAcc-std()-X from original dataset
+6	tbodyacc_std_x: Mean of tBodyAcc-std()-X from original dataset
 
-7	tbodyacc_std_y	          Mean of tBodyAcc-std()-Y from original dataset
+7	tbodyacc_std_y: Mean of tBodyAcc-std()-Y from original dataset
 
-8	tbodyacc_std_z	          Mean of tBodyAcc-std()-Z from original dataset
+8	tbodyacc_std_z: Mean of tBodyAcc-std()-Z from original dataset
 
-9	tgravityacc_mean_x	      Mean of tGravityAcc-mean()-X from original dataset
+9	tgravityacc_mean_x: Mean of tGravityAcc-mean()-X from original dataset
 
-10	tgravityacc_mean_y	    Mean of tGravityAcc-mean()-Y from original dataset
+10	tgravityacc_mean_y: Mean of tGravityAcc-mean()-Y from original dataset
 
-11	tgravityacc_mean_z	    Mean of tGravityAcc-mean()-Z from original dataset
+11	tgravityacc_mean_z: Mean of tGravityAcc-mean()-Z from original dataset
 
-12	tgravityacc_std_x	      Mean of tGravityAcc-std()-X from original dataset
+12	tgravityacc_std_x: Mean of tGravityAcc-std()-X from original dataset
 
-13	tgravityacc_std_y	      Mean of tGravityAcc-std()-Y from original dataset
+13	tgravityacc_std_y: Mean of tGravityAcc-std()-Y from original dataset
 
-14	tgravityacc_std_z	      Mean of tGravityAcc-std()-Z from original dataset
+14	tgravityacc_std_z: Mean of tGravityAcc-std()-Z from original dataset
 
 15	tbodyaccjerk_mean_x	    Mean of tBodyAccJerk-mean()-X from original dataset
 

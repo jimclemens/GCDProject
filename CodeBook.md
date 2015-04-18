@@ -13,7 +13,11 @@
 >Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012	
 >This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors 	
 >or their institutions for its use or misuse. Any commercial use is prohibited.	
->Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.	
+>Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
+
+###Units: All units are as per the original dataset and are not repeated here to eliminate possible error
+or confusion. Refer to the original dataset documentation (particularly features_info.txt, included in the repo)
+for sampling methodology and the calculations performed in the original data gathering. 
 		
 		
 ###Column	Variable Name	Definition

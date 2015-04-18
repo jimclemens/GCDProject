@@ -19,11 +19,8 @@
 ###Column	Variable Name	Definition
 
 1	activity	                Activity undertaken during measurements. 6 values; descriptive names given in values.
-
 2	subject_num	              Subject number. Ranges from 1 to 30
-
 3	tbodyacc_mean_x	          Mean of tBodyAcc-mean()-X from original dataset
-
 4	tbodyacc_mean_y	          Mean of tBodyAcc-mean()-Y from original dataset
 5	tbodyacc_mean_z	          Mean of tBodyAcc-mean()-Z from original dataset
 6	tbodyacc_std_x	          Mean of tBodyAcc-std()-X from original dataset

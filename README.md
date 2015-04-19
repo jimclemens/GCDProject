@@ -24,7 +24,7 @@ subject. The second is the mean of the variable observations by activity. A colu
 to each with NA values (the activity column for the subject observations, and the subject
 column for the activity observations). This allows the two datasets to be combined using rbind
 into a single tidy dataset (see Hadley Wickham's guidance on tidy data at 
-http://vita.had.co.nz/papers/tidy-data.pdf. This dataset is considered 'narrow' and tidy because
+http://vita.had.co.nz/papers/tidy-data.pdf. This dataset is considered tidy because
 each computed mean is attached to either a subject or an activity (i.e. there are rows for each).
 The alternative (not tidy) would be to create an observation_type variable with values of either
 "subject" or "activity" and another column with the "subject or activity" number. This latter column

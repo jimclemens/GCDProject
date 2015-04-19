@@ -76,4 +76,4 @@ names(actsum)[2] <- "subject_num"
 sumset <- rbind(subjsum, actsum)
 ## Create an output file using write.table and row.name = FALSE
 write.table(sumset, file = "./summarytable.txt",row.names = FALSE)
-
+sumset

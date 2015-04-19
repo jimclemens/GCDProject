@@ -19,6 +19,7 @@
 ## has already been done in this case.
 ##
 library(dplyr)
+library(reshape2)
 ## Read in the training and test datasets
 traindata <- read.table("./train/X_train.txt")
 trainsub <- read.table("./train/subject_train.txt")
